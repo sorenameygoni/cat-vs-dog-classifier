@@ -88,6 +88,11 @@ See the `requirements.txt` file.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
+### 📥 Download Trained Model
+
+You can download the best trained model (`best_model.pth`) from [Google Drive](https://drive.google.com/file/d/1zlu0zzOX6606yiiZzTuq1H-Mjd6habQ_/view?usp=drive_link).
+Place it in the project root directory so it can be loaded easily for inference or testing.
+______________________________________________________________________________________________
 
 ## 📜 License
 
